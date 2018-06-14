@@ -5,15 +5,15 @@ Keep in mind it's using python 3.6.x the f" string formater will not work on pyt
 # Udemy-python-tutorial-for-beginners
 Script from Udemy-python-tutorial-for-beginners
 
-class_abstraction
-interest_calculator
-country 
-amphibian
-process_check
-read_contacts
-recipe
-string_looping
-student
+class_abstraction.py
+interest_calculator.py
+country.py
+amphibian.py
+process_check.py
+read_contacts.py
+recipe.py
+string_looping.py
+student.py
 
 # Script I made as I needed.
     Generate a template to create magento 2admin user, taking an email as an argument.
